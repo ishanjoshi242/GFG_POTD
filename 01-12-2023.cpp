@@ -4,6 +4,7 @@ int data;
 Node * right, * left;
 };*/
 
+
 /*You are required to complete below method */
 class Solution{
   public:
